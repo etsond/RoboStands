@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RoboStands/static/css/main.f2366706.css",
+    "main.js": "/RoboStands/static/js/main.62edc86d.js",
+    "static/js/787.32032a02.chunk.js": "/RoboStands/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/RoboStands/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/RoboStands/index.html",
+    "main.f2366706.css.map": "/RoboStands/static/css/main.f2366706.css.map",
+    "main.62edc86d.js.map": "/RoboStands/static/js/main.62edc86d.js.map",
+    "787.32032a02.chunk.js.map": "/RoboStands/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2366706.css",
+    "static/js/main.62edc86d.js"
+  ]
+}
